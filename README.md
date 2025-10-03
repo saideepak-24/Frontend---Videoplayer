@@ -5,8 +5,8 @@ Why a custom player? To offer full control over the UI/UX, including custom cont
 Interface Demo
 Here's a look at the live interface, highlighting the unique playlist and custom control layo
 
-![Alt text for external image]("C:\Users\saide\OneDrive\Pictures\Screenshots\Screenshot 2025-10-03 182523.png"
-)
+
+
 
 🛠️ Key Features Under the Hood
 We focused on building a robust media experience with key functionalities like:
