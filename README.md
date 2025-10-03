@@ -6,6 +6,7 @@ Interface Demo
 Here's a look at the live interface, highlighting the unique playlist and custom control layo
 
 
+![image_Alt]("C:\Users\saide\OneDrive\Pictures\Screenshots\Screenshot 2025-10-03 182523.png")
 
 
 🛠️ Key Features Under the Hood
