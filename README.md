@@ -6,6 +6,6 @@ Interface Demo
 Here's a look at the live interface, highlighting the unique playlist and custom control layo
 
 
-![image Alt](C:\Users\saide\OneDrive\Pictures\Screenshots\Screenshot 2025-10-03 182523.png)
+![image Alt](https://github.com/saideepak-24/Frontend---Videoplayer/blob/c6f89a8d16041ad33629fff8511f8c36aec7fa50/Screenshot%202025-10-03%20182523.png)
 
 
