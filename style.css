@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.player {
+  text-align: center;
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 12px;
+  width: 400px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-bottom: 15px;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 4px solid #1db954;
+  border-radius: 10px;
+}
+
+#video-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1db954;
+  margin-bottom: 15px;
+}
+
+.controls button {
+  background: #333;
+  border: none;
+  padding: 10px 12px;
+  margin: 5px;
+  font-size: 18px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background: #555;
+}
+
+#playlist {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+#playlist li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  padding: 8px;
+  border-bottom: 1px solid #333;
+}
+
+#playlist li img {
+  width: 60px;
+  height: 40px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+#playlist li:hover {
+  background: #333;
+}
+
+#playlist li.active {
+  background: #1db954;
+  font-weight: bold;
+}
